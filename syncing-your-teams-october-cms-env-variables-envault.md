@@ -1,3 +1,5 @@
+# Syncing your Teams’ October CMS .env Variables with Envault
+
 Many apps connect to third party services to enrich their features. These almost always require authentication via a key of some form.
 As October CMS developers, these keys inevitably end up getting dumped in our site’s .env file.
 
